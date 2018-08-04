@@ -14,11 +14,11 @@ Use Git Bash! Here are commands to help you do the following:
   `git clone https://github.com/crystalPanter/GitClass.git`
 6. Move into the project folder
   `cd GitClass`
-7. Connect to Github
+7. *MAY NEED TO DO THIS*
+  Connect to Github
   ```bash
    git config --global user.name "YOUR NAME"
-   git config --global user.email YOUR.NAME@gmail.com
-   git init
+   git config --global user.email "YOUR.NAME@gmail.com"
   ```
   
 ## Making your own branch:
